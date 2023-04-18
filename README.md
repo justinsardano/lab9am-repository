@@ -1,1 +1,3 @@
 # lab9am-repository
+The first assignment I attatched was my game, and the reason for attatching this is because it took a lot of time for me to figure out, and in the end I was able to make my own game. I made the game by creating a ball that would fall randomly from the sky, and then a sprite that would follow my mouse on the x position. if the ball hit the head of the sprite, then the sprite's eyes would close, like it'd been hit in the head by a ball in real life. 
+The second assignment I submitted was the shapes assignment, and the reason for this one was because I also found it challenging, yet figured it out, and in doing so also figured out certain key concepts that I have used onward. It was also a bit more recent, therefore a bit more fresh for me to remember.
